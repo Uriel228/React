@@ -3,7 +3,7 @@ import '../assets/styles/components/CarouselItem.scss';
 
 const CarouselItem = () => (
     <div className="carousel-item">
-    <img className="carousel-item__img" src="https://images.pexels.com/photos/789822/pexels-photo-789822.jpeg?auto=format%2Ccompress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="IMAGE"  />
+    <img className="carousel-item__img" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaXHh6ItBvqJyhef2-qYGCmXPGwuPncWR9jQ&usqp=CAU" alt="IMAGE"  />
     <div className="carousel-item__details">
       <div>
         <img className="carousel-item__details--img" src="../assets/play-icon.png" alt="Play Icon" /> 

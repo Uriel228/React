@@ -14,10 +14,12 @@ const App = () => (
     <Search />
 
     <Categories >
+
         <Carousel>
             <CarouselItem/>
             <CarouselItem/>
         </Carousel>
+
     </Categories>
 </div>
 );
